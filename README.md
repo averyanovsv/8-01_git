@@ -37,7 +37,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-[Ссылка на коммит. Задание 1.](https://github.com/tverdyakov/netology-hw-first/commit/9cedcc349f4a54af246053117138bc80d184a7f0)
+[Ссылка на коммит. Задание 1.](https://github.com/averyanovsv/netology-git-8-01-hw/commit/dffab8126fb36e602fe472a81fe5d393a04cff01#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
 ---
 
 ### Задание 2
