@@ -51,7 +51,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-[Ссылка на коммит. Задание 2.](https://github.com/tverdyakov/netology-hw-first/commit/2ca00305793dd7630a9c2fab9e033cf2df3a1001)
+[Ссылка на коммит. Задание 2.](https://github.com/averyanovsv/8-01_git/commit/c5feabdd5a39a8f0e00abc8f1bce53470789186d)
 ---
 
 ### Задание 3
@@ -66,7 +66,7 @@
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-[Ссылка на граф коммитов. Задание 3.](https://github.com/tverdyakov/netology-hw-first/network)
+[Ссылка на граф коммитов. Задание 3.](https://github.com/averyanovsv/netology-git-8-01-hw/network)
 ---
 ## Дополнительные задания* (со звёздочкой)
 
